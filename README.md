@@ -15,3 +15,6 @@ sendo, + = public, - = private e # = protegido.
 Aluno e Visitante são classes filhos que herdam os atributos da classe mãe. Já, as classe,
 Bolsista, também são filhos da classe Aluno e, por tanto, também recebem a Herança da 
 classe Pessoa (nome, idade e sexo).
+
+2) Projeto livro: onde crio uma lógica para abrir e fechar um livro, folheá-lo,
+avançar e retroceder páginas com a programação orientada a oobjetos em java.
